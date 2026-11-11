@@ -1,0 +1,2236 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="532" viewBox="0 0 1200 532" role="img" aria-label="Город активности — высота колонны соответствует числу действий за день">
+  <title>Город активности — высота колонны соответствует числу действий за день</title>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#19162d"/><stop offset="1" stop-color="#0c101c"/>
+    </linearGradient>
+    <linearGradient id="accent"><stop stop-color="#d6bcff"/><stop offset=".5" stop-color="#a286ff"/><stop offset="1" stop-color="#79d9ff"/></linearGradient>
+    <radialGradient id="aura"><stop stop-color="#a56aff" stop-opacity=".5"/><stop offset=".5" stop-color="#7650d5" stop-opacity=".2"/><stop offset="1" stop-color="#7650d5" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, monospace; }
+    .muted { fill: #a6a5bf; }
+    @keyframes breathe { 0%,100% { opacity:.45; } 50% { opacity:1; } }
+    @keyframes rotate { to { transform:rotate(360deg); } }
+    .breathing { animation:breathe 5s ease-in-out infinite; }
+    .orbit { transform-box:fill-box; transform-origin:center; animation:rotate 36s linear infinite; }
+    @media (prefers-reduced-motion:reduce) { .orbit,.breathing { animation:none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="530" rx="26" fill="url(#panel)" stroke="#35304e"/>
+    <ellipse cx="670" cy="340" rx="480" ry="160" fill="url(#aura)" opacity=".3"/>
+    <text x="34" y="49" font-size="13" class="mono" letter-spacing="3" fill="#c4a5ff">ACTIVITY CITY</text>
+    <text x="34" y="82" font-size="17" class="muted">Каждая колонна — день. Высота — число действий.</text>
+    <path d="M 100 230 L 1050 464 L 1140 403" stroke="#5a3d84" opacity=".4" fill="none"/>
+    <g><title>2025-11-09 · 0</title>
+      <path d="M 210 178 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 186 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 190 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-16 · 0</title>
+      <path d="M 226 181.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 189.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 193.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-23 · 0</title>
+      <path d="M 242 185.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 193.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 197.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-10 · 0</title>
+      <path d="M 194 188 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 196 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 200 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-30 · 0</title>
+      <path d="M 258 189.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 197.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 201.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-17 · 0</title>
+      <path d="M 210 191.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 199.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 203.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-07 · 0</title>
+      <path d="M 274 193.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 201.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 205.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-24 · 0</title>
+      <path d="M 226 195.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 203.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 207.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-14 · 0</title>
+      <path d="M 290 197.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 205.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 209.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-11 · 0</title>
+      <path d="M 178 198 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 164 206 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 178 210 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-01 · 0</title>
+      <path d="M 242 199.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 207.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 211.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-21 · 0</title>
+      <path d="M 306 201.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 209.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 213.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-18 · 0</title>
+      <path d="M 194 201.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 209.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 213.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-08 · 0</title>
+      <path d="M 258 203.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 211.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 215.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-28 · 0</title>
+      <path d="M 322 205.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 213.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 217.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-25 · 0</title>
+      <path d="M 210 205.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 213.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 217.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-15 · 0</title>
+      <path d="M 274 207.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 215.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 219.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-12 · 0</title>
+      <path d="M 162 208 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 148 216 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 162 220 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-04 · 0</title>
+      <path d="M 338 209.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 217.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 221.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-02 · 0</title>
+      <path d="M 226 209.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 217.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 221.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-22 · 0</title>
+      <path d="M 290 211.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 219.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 223.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-19 · 0</title>
+      <path d="M 178 211.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 164 219.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 178 223.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-11 · 0</title>
+      <path d="M 354 213.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 221.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 225.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-09 · 0</title>
+      <path d="M 242 213.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 221.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 225.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-29 · 0</title>
+      <path d="M 306 215.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 223.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 227.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-26 · 0</title>
+      <path d="M 194 215.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 223.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 227.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-18 · 0</title>
+      <path d="M 370 217 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 225 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 229 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-16 · 0</title>
+      <path d="M 258 217.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 225.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 229.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-13 · 0</title>
+      <path d="M 146 218 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 132 226 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 146 230 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-05 · 0</title>
+      <path d="M 322 219.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 227.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 231.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-03 · 0</title>
+      <path d="M 210 219.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 227.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 231.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-25 · 0</title>
+      <path d="M 386 220.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 228.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 232.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-23 · 0</title>
+      <path d="M 274 221.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 229.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 233.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-20 · 0</title>
+      <path d="M 162 221.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 148 229.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 162 233.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-12 · 0</title>
+      <path d="M 338 223.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 231.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 235.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-10 · 0</title>
+      <path d="M 226 223.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 231.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 235.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-01 · 0</title>
+      <path d="M 402 224.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 232.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 236.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-30 · 0</title>
+      <path d="M 290 225.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 233.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 237.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-27 · 0</title>
+      <path d="M 178 225.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 164 233.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 178 237.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-19 · 0</title>
+      <path d="M 354 227 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 235 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 239 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-17 · 0</title>
+      <path d="M 242 227.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 235.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 239.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-14 · 0</title>
+      <path d="M 130 228 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 116 236 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 130 240 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-08 · 0</title>
+      <path d="M 418 228.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 236.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 240.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-06 · 0</title>
+      <path d="M 306 229.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 237.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 241.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-04 · 0</title>
+      <path d="M 194 229.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 237.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 241.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-26 · 0</title>
+      <path d="M 370 230.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 238.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 242.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-24 · 0</title>
+      <path d="M 258 231.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 239.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 243.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-21 · 0</title>
+      <path d="M 146 231.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 132 239.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 146 243.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-15 · 0</title>
+      <path d="M 434 232.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 240.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 244.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-13 · 1</title>
+      <path d="M 322 183.82513878160486 l 14 4 l -14 8 l -14 -4 Z" fill="#d4b1ff" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 191.82513878160486 l 14 4 v 50.27486121839514 l -14 -4 Z" fill="#7753c4"/>
+      <path d="M 322 195.82513878160486 l 14 -8 v 50.27486121839514 l -14 8 Z" fill="#4b387f"/>
+      <path d="M 311 194.82513878160486 l 8 2 m 4 -3 l 8 -4" stroke="#e6caff" stroke-width="1" opacity=".8"/>
+    </g>
+<g><title>2025-12-11 · 0</title>
+      <path d="M 210 233.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 241.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 245.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-02 · 0</title>
+      <path d="M 386 234.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 242.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 246.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-31 · 0</title>
+      <path d="M 274 235.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 243.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 247.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-28 · 0</title>
+      <path d="M 162 235.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 148 243.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 162 247.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-22 · 0</title>
+      <path d="M 450 236.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 244.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 248.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-20 · 0</title>
+      <path d="M 338 237 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 245 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 249 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-18 · 0</title>
+      <path d="M 226 237.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 245.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 249.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-15 · 0</title>
+      <path d="M 114 238 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 100 246 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 114 250 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-09 · 0</title>
+      <path d="M 402 238.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 246.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 250.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-07 · 0</title>
+      <path d="M 290 239.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 247.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 251.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-05 · 0</title>
+      <path d="M 178 239.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 164 247.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 178 251.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-01 · 0</title>
+      <path d="M 466 240.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 248.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 252.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-27 · 0</title>
+      <path d="M 354 240.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 248.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 252.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-25 · 0</title>
+      <path d="M 242 241.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 249.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 253.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-22 · 0</title>
+      <path d="M 130 241.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 116 249.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 130 253.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-16 · 0</title>
+      <path d="M 418 242.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 250.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 254.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-14 · 0</title>
+      <path d="M 306 243.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 251.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 255.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-12 · 0</title>
+      <path d="M 194 243.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 251.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 255.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-08 · 0</title>
+      <path d="M 482 244.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 252.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 256.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-03 · 0</title>
+      <path d="M 370 244.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 252.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 256.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-01 · 0</title>
+      <path d="M 258 245.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 253.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 257.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-11-29 · 0</title>
+      <path d="M 146 245.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 132 253.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 146 257.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-23 · 0</title>
+      <path d="M 434 246.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 254.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 258.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-21 · 0</title>
+      <path d="M 322 247 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 255 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 259 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-19 · 0</title>
+      <path d="M 210 247.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 255.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 259.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-15 · 0</title>
+      <path d="M 498 248.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 256.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 260.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-10 · 0</title>
+      <path d="M 386 248.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 256.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 260.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-08 · 0</title>
+      <path d="M 274 249.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 257.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 261.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-06 · 0</title>
+      <path d="M 162 249.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 148 257.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 162 261.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-02 · 0</title>
+      <path d="M 450 250.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 258.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 262.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-28 · 0</title>
+      <path d="M 338 250.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 258.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 262.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-26 · 0</title>
+      <path d="M 226 251.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 259.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 263.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-22 · 0</title>
+      <path d="M 514 252.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 260.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 264.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-17 · 0</title>
+      <path d="M 402 252.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 260.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 264.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-15 · 0</title>
+      <path d="M 290 253.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 261.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 265.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-13 · 0</title>
+      <path d="M 178 253.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 164 261.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 178 265.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-09 · 0</title>
+      <path d="M 466 254.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 262.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 266.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-04 · 0</title>
+      <path d="M 354 254.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 262.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 266.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-02 · 0</title>
+      <path d="M 242 255.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 263.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 267.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-29 · 0</title>
+      <path d="M 530 256 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 264 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 268 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-24 · 0</title>
+      <path d="M 418 256.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 264.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 268.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-22 · 0</title>
+      <path d="M 306 257 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 265 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 269 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-20 · 0</title>
+      <path d="M 194 257.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 180 265.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 194 269.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-16 · 0</title>
+      <path d="M 482 258.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 266.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 270.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-11 · 0</title>
+      <path d="M 370 258.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 266.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 270.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-09 · 0</title>
+      <path d="M 258 259.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 267.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 271.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-05 · 0</title>
+      <path d="M 546 259.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 267.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 271.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-03 · 0</title>
+      <path d="M 434 260.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 268.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 272.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-29 · 0</title>
+      <path d="M 322 260.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 268.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 272.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2025-12-27 · 0</title>
+      <path d="M 210 261.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 196 269.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 210 273.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-23 · 0</title>
+      <path d="M 498 262.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 270.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 274.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-18 · 0</title>
+      <path d="M 386 262.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 270.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 274.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-16 · 0</title>
+      <path d="M 274 263.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 271.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 275.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-12 · 0</title>
+      <path d="M 562 263.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 271.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 275.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-10 · 0</title>
+      <path d="M 450 264.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 272.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 276.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-05 · 0</title>
+      <path d="M 338 264.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 272.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 276.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-03 · 0</title>
+      <path d="M 226 265.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 212 273.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 226 277.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-30 · 0</title>
+      <path d="M 514 266 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 274 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 278 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-25 · 0</title>
+      <path d="M 402 266.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 274.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 278.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-23 · 0</title>
+      <path d="M 290 267 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 275 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 279 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-19 · 0</title>
+      <path d="M 578 267.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 275.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 279.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-17 · 0</title>
+      <path d="M 466 268.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 276.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 280.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-12 · 0</title>
+      <path d="M 354 268.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 276.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 280.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-10 · 0</title>
+      <path d="M 242 269.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 228 277.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 242 281.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-06 · 0</title>
+      <path d="M 530 269.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 277.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 281.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-04 · 0</title>
+      <path d="M 418 270.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 278.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 282.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-30 · 0</title>
+      <path d="M 306 270.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 278.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 282.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-26 · 0</title>
+      <path d="M 594 271.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 279.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 283.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-24 · 0</title>
+      <path d="M 482 272.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 280.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 284.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-19 · 0</title>
+      <path d="M 370 272.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 280.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 284.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-17 · 0</title>
+      <path d="M 258 273.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 244 281.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 258 285.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-13 · 0</title>
+      <path d="M 546 273.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 281.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 285.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-11 · 0</title>
+      <path d="M 434 274.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 282.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 286.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-06 · 0</title>
+      <path d="M 322 274.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 282.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 286.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-03 · 0</title>
+      <path d="M 610 275.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 283.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 287.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-31 · 0</title>
+      <path d="M 498 276 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 284 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 288 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-26 · 0</title>
+      <path d="M 386 276.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 284.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 288.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-24 · 0</title>
+      <path d="M 274 277 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 260 285 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 274 289 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-20 · 0</title>
+      <path d="M 562 277.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 285.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 289.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-18 · 0</title>
+      <path d="M 450 278.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 286.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 290.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-13 · 0</title>
+      <path d="M 338 278.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 286.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 290.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-10 · 0</title>
+      <path d="M 626 279.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 287.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 291.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-07 · 0</title>
+      <path d="M 514 279.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 287.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 291.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-05 · 0</title>
+      <path d="M 402 280.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 288.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 292.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-01-31 · 0</title>
+      <path d="M 290 280.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 276 288.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 290 292.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-27 · 0</title>
+      <path d="M 578 281.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 289.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 293.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-25 · 0</title>
+      <path d="M 466 282.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 290.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 294.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-20 · 0</title>
+      <path d="M 354 282.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 290.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 294.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-17 · 0</title>
+      <path d="M 642 283.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 291.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 295.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-14 · 0</title>
+      <path d="M 530 283.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 291.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 295.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-12 · 0</title>
+      <path d="M 418 284.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 292.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 296.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-07 · 0</title>
+      <path d="M 306 284.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 292 292.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 306 296.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-04 · 0</title>
+      <path d="M 594 285.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 293.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 297.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-01 · 0</title>
+      <path d="M 482 286 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 294 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 298 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-27 · 0</title>
+      <path d="M 370 286.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 294.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 298.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-24 · 0</title>
+      <path d="M 658 287.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 295.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 299.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-21 · 0</title>
+      <path d="M 546 287.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 295.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 299.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-19 · 0</title>
+      <path d="M 434 288.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 296.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 300.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-14 · 0</title>
+      <path d="M 322 288.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 308 296.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 322 300.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-11 · 0</title>
+      <path d="M 610 289.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 297.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 301.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-08 · 0</title>
+      <path d="M 498 289.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 297.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 301.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-06 · 0</title>
+      <path d="M 386 290.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 298.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 302.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-31 · 0</title>
+      <path d="M 674 291.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 299.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 303.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-28 · 0</title>
+      <path d="M 562 291.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 299.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 303.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-26 · 0</title>
+      <path d="M 450 292.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 300.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 304.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-21 · 0</title>
+      <path d="M 338 292.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 324 300.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 338 304.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-18 · 0</title>
+      <path d="M 626 293.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 301.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 305.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-15 · 0</title>
+      <path d="M 514 293.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 301.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 305.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-13 · 0</title>
+      <path d="M 402 294.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 302.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 306.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-07 · 0</title>
+      <path d="M 690 295 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 303 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 307 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-05 · 0</title>
+      <path d="M 578 295.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 303.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 307.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-02 · 0</title>
+      <path d="M 466 296 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 304 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 308 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-02-28 · 0</title>
+      <path d="M 354 296.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 340 304.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 354 308.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-25 · 0</title>
+      <path d="M 642 297.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 305.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 309.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-22 · 0</title>
+      <path d="M 530 297.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 305.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 309.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-20 · 0</title>
+      <path d="M 418 298.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 306.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 310.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-14 · 0</title>
+      <path d="M 706 298.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 306.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 310.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-12 · 0</title>
+      <path d="M 594 299.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 307.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 311.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-09 · 0</title>
+      <path d="M 482 299.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 307.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 311.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-07 · 0</title>
+      <path d="M 370 300.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 356 308.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 370 312.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-01 · 0</title>
+      <path d="M 658 301.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 309.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 313.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-29 · 0</title>
+      <path d="M 546 301.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 309.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 313.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-27 · 0</title>
+      <path d="M 434 302.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 310.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 314.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-21 · 0</title>
+      <path d="M 722 302.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 310.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 314.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-19 · 0</title>
+      <path d="M 610 303.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 311.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 315.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-16 · 0</title>
+      <path d="M 498 303.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 311.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 315.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-14 · 0</title>
+      <path d="M 386 304.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 372 312.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 386 316.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-08 · 0</title>
+      <path d="M 674 305 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 313 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 317 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-06 · 0</title>
+      <path d="M 562 305.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 313.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 317.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-03 · 0</title>
+      <path d="M 450 306 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 314 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 318 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-28 · 0</title>
+      <path d="M 738 306.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 314.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 318.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-26 · 0</title>
+      <path d="M 626 307.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 315.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 319.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-23 · 0</title>
+      <path d="M 514 307.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 315.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 319.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-21 · 0</title>
+      <path d="M 402 308.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 388 316.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 402 320.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-15 · 0</title>
+      <path d="M 690 308.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 316.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 320.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-13 · 0</title>
+      <path d="M 578 309.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 317.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 321.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-10 · 0</title>
+      <path d="M 466 309.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 317.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 321.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-05 · 0</title>
+      <path d="M 754 310.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 318.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 322.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-02 · 0</title>
+      <path d="M 642 311.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 319.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 323.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-30 · 0</title>
+      <path d="M 530 311.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 319.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 323.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-03-28 · 0</title>
+      <path d="M 418 312.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 404 320.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 418 324.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-22 · 0</title>
+      <path d="M 706 312.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 320.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 324.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-20 · 0</title>
+      <path d="M 594 313.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 321.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 325.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-17 · 0</title>
+      <path d="M 482 313.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 321.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 325.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-12 · 0</title>
+      <path d="M 770 314.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 322.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 326.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-09 · 0</title>
+      <path d="M 658 315 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 323 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 327 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-07 · 0</title>
+      <path d="M 546 315.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 323.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 327.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-04 · 0</title>
+      <path d="M 434 316 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 420 324 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 434 328 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-29 · 0</title>
+      <path d="M 722 316.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 324.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 328.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-27 · 0</title>
+      <path d="M 610 317.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 325.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 329.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-24 · 0</title>
+      <path d="M 498 317.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 325.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 329.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-19 · 0</title>
+      <path d="M 786 318.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 326.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 330.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-16 · 0</title>
+      <path d="M 674 318.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 326.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 330.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-14 · 0</title>
+      <path d="M 562 319.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 327.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 331.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-11 · 0</title>
+      <path d="M 450 319.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 436 327.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 450 331.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-06 · 0</title>
+      <path d="M 738 320.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 328.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 332.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-03 · 15</title>
+      <path d="M 626 179.10000000000002 l 14 4 l -14 8 l -14 -4 Z" fill="#d4b1ff" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 187.10000000000002 l 14 4 v 143 l -14 -4 Z" fill="#7753c4"/>
+      <path d="M 626 191.10000000000002 l 14 -8 v 143 l -14 8 Z" fill="#4b387f"/>
+      <path d="M 615 190.10000000000002 l 8 2 m 4 -3 l 8 -4" stroke="#e6caff" stroke-width="1" opacity=".8"/>
+    </g>
+<g><title>2026-05-01 · 0</title>
+      <path d="M 514 321.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 329.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 333.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-26 · 0</title>
+      <path d="M 802 322.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 330.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 334.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-23 · 0</title>
+      <path d="M 690 322.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 330.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 334.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-21 · 0</title>
+      <path d="M 578 323.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 331.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 335.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-18 · 0</title>
+      <path d="M 466 323.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 452 331.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 466 335.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-13 · 0</title>
+      <path d="M 754 324.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 332.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 336.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-10 · 0</title>
+      <path d="M 642 325 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 333 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 337 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-08 · 0</title>
+      <path d="M 530 325.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 333.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 337.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-02 · 0</title>
+      <path d="M 818 326.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 334.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 338.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-30 · 0</title>
+      <path d="M 706 326.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 334.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 338.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-28 · 0</title>
+      <path d="M 594 327.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 335.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 339.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-04-25 · 0</title>
+      <path d="M 482 327.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 468 335.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 482 339.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-20 · 0</title>
+      <path d="M 770 328.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 336.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 340.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-17 · 0</title>
+      <path d="M 658 328.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 336.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 340.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-15 · 0</title>
+      <path d="M 546 329.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 337.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 341.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-09 · 0</title>
+      <path d="M 834 330.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 338.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 342.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-07 · 0</title>
+      <path d="M 722 330.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 338.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 342.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-04 · 1</title>
+      <path d="M 610 281.8251387816049 l 14 4 l -14 8 l -14 -4 Z" fill="#d4b1ff" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 289.8251387816049 l 14 4 v 50.27486121839514 l -14 -4 Z" fill="#7753c4"/>
+      <path d="M 610 293.8251387816049 l 14 -8 v 50.27486121839514 l -14 8 Z" fill="#4b387f"/>
+      <path d="M 599 292.8251387816049 l 8 2 m 4 -3 l 8 -4" stroke="#e6caff" stroke-width="1" opacity=".8"/>
+    </g>
+<g><title>2026-05-02 · 0</title>
+      <path d="M 498 331.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 484 339.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 498 343.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-27 · 0</title>
+      <path d="M 786 332.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 340.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 344.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-24 · 0</title>
+      <path d="M 674 332.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 340.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 344.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-22 · 0</title>
+      <path d="M 562 333.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 341.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 345.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-16 · 0</title>
+      <path d="M 850 334 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 342 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 346 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-14 · 0</title>
+      <path d="M 738 334.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 342.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 346.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-11 · 0</title>
+      <path d="M 626 335 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 343 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 347 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-09 · 0</title>
+      <path d="M 514 335.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 500 343.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 514 347.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-03 · 0</title>
+      <path d="M 802 336.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 344.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 348.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-01 · 0</title>
+      <path d="M 690 336.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 344.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 348.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-29 · 0</title>
+      <path d="M 578 337.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 345.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 349.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-23 · 0</title>
+      <path d="M 866 337.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 345.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 349.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-21 · 0</title>
+      <path d="M 754 338.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 346.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 350.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-18 · 0</title>
+      <path d="M 642 338.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 346.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 350.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-16 · 0</title>
+      <path d="M 530 339.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 516 347.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 530 351.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-10 · 0</title>
+      <path d="M 818 340.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 348.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 352.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-08 · 0</title>
+      <path d="M 706 340.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 348.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 352.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-05 · 0</title>
+      <path d="M 594 341.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 349.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 353.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-30 · 0</title>
+      <path d="M 882 341.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 349.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 353.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-28 · 0</title>
+      <path d="M 770 342.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 350.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 354.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-25 · 0</title>
+      <path d="M 658 342.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 350.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 354.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-23 · 0</title>
+      <path d="M 546 343.3 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 532 351.3 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 546 355.3 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-17 · 0</title>
+      <path d="M 834 344 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 352 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 356 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-15 · 0</title>
+      <path d="M 722 344.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 352.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 356.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-12 · 0</title>
+      <path d="M 610 345 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 353 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 357 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-06 · 0</title>
+      <path d="M 898 345.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 353.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 357.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-04 · 0</title>
+      <path d="M 786 346.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 354.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 358.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-02 · 0</title>
+      <path d="M 674 346.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 354.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 358.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-05-30 · 0</title>
+      <path d="M 562 347.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 548 355.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 562 359.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-24 · 0</title>
+      <path d="M 850 347.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 355.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 359.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-22 · 0</title>
+      <path d="M 738 348.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 356.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 360.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-19 · 0</title>
+      <path d="M 626 348.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 356.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 360.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-13 · 0</title>
+      <path d="M 914 349.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 357.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 361.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-11 · 0</title>
+      <path d="M 802 350.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 358.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 362.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-09 · 0</title>
+      <path d="M 690 350.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 358.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 362.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-06 · 0</title>
+      <path d="M 578 351.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 564 359.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 578 363.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-31 · 0</title>
+      <path d="M 866 351.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 359.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 363.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-29 · 0</title>
+      <path d="M 754 352.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 360.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 364.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-26 · 0</title>
+      <path d="M 642 352.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 360.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 364.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-20 · 0</title>
+      <path d="M 930 353.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 361.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 365.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-18 · 0</title>
+      <path d="M 818 354 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 362 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 366 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-16 · 0</title>
+      <path d="M 706 354.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 362.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 366.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-13 · 0</title>
+      <path d="M 594 355 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 580 363 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 594 367 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-07 · 0</title>
+      <path d="M 882 355.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 363.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 367.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-05 · 0</title>
+      <path d="M 770 356.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 364.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 368.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-03 · 0</title>
+      <path d="M 658 356.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 364.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 368.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-27 · 0</title>
+      <path d="M 946 357.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 365.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 369.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-25 · 0</title>
+      <path d="M 834 357.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 365.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 369.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-23 · 0</title>
+      <path d="M 722 358.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 366.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 370.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-20 · 0</title>
+      <path d="M 610 358.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 596 366.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 610 370.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-14 · 0</title>
+      <path d="M 898 359.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 367.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 371.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-12 · 0</title>
+      <path d="M 786 360.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 368.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 372.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-10 · 0</title>
+      <path d="M 674 360.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 368.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 372.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-04 · 0</title>
+      <path d="M 962 361.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 948 369.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 962 373.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-01 · 0</title>
+      <path d="M 850 361.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 369.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 373.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-30 · 0</title>
+      <path d="M 738 362.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 370.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 374.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-06-27 · 0</title>
+      <path d="M 626 362.8 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 612 370.8 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 626 374.8 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-21 · 0</title>
+      <path d="M 914 363.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 371.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 375.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-19 · 0</title>
+      <path d="M 802 364 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 372 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 376 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-17 · 0</title>
+      <path d="M 690 364.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 372.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 376.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-11 · 0</title>
+      <path d="M 978 365.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 964 373.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 978 377.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-08 · 0</title>
+      <path d="M 866 365.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 373.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 377.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-06 · 0</title>
+      <path d="M 754 366.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 374.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 378.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-04 · 0</title>
+      <path d="M 642 366.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 628 374.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 642 378.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-28 · 0</title>
+      <path d="M 930 367.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 375.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 379.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-26 · 0</title>
+      <path d="M 818 367.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 375.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 379.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-24 · 0</title>
+      <path d="M 706 368.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 376.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 380.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-18 · 0</title>
+      <path d="M 994 369.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 980 377.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 994 381.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-15 · 0</title>
+      <path d="M 882 369.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 377.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 381.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-13 · 0</title>
+      <path d="M 770 370.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 378.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 382.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-11 · 0</title>
+      <path d="M 658 370.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 644 378.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 658 382.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-05 · 0</title>
+      <path d="M 946 371.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 379.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 383.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-02 · 0</title>
+      <path d="M 834 371.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 379.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 383.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-31 · 0</title>
+      <path d="M 722 372.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 380.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 384.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-25 · 0</title>
+      <path d="M 1010 373 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 996 381 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1010 385 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-22 · 0</title>
+      <path d="M 898 373.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 381.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 385.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-20 · 0</title>
+      <path d="M 786 374 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 382 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 386 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-18 · 0</title>
+      <path d="M 674 374.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 660 382.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 674 386.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-12 · 0</title>
+      <path d="M 962 375.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 948 383.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 962 387.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-09 · 0</title>
+      <path d="M 850 375.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 383.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 387.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-07 · 0</title>
+      <path d="M 738 376.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 384.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 388.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-01 · 0</title>
+      <path d="M 1026 376.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 1012 384.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1026 388.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-29 · 0</title>
+      <path d="M 914 377.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 385.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 389.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-27 · 0</title>
+      <path d="M 802 377.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 385.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 389.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-07-25 · 0</title>
+      <path d="M 690 378.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 676 386.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 690 390.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-19 · 0</title>
+      <path d="M 978 379.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 964 387.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 978 391.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-16 · 0</title>
+      <path d="M 866 379.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 387.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 391.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-14 · 0</title>
+      <path d="M 754 380.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 388.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 392.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-08 · 0</title>
+      <path d="M 1042 380.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 1028 388.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1042 392.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-06 · 0</title>
+      <path d="M 930 381.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 389.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 393.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-03 · 0</title>
+      <path d="M 818 381.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 389.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 393.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-01 · 0</title>
+      <path d="M 706 382.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 692 390.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 706 394.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-26 · 0</title>
+      <path d="M 994 383 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 980 391 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 994 395 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-23 · 0</title>
+      <path d="M 882 383.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 391.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 395.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-21 · 0</title>
+      <path d="M 770 384 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 392 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 396 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-13 · 0</title>
+      <path d="M 946 385.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 393.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 397.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-10 · 0</title>
+      <path d="M 834 385.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 393.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 397.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-08 · 0</title>
+      <path d="M 722 386.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 708 394.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 722 398.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-02 · 0</title>
+      <path d="M 1010 386.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 996 394.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1010 398.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-30 · 0</title>
+      <path d="M 898 387.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 395.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 399.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-28 · 0</title>
+      <path d="M 786 387.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 395.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 399.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-20 · 0</title>
+      <path d="M 962 389.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 948 397.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 962 401.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-17 · 0</title>
+      <path d="M 850 389.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 397.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 401.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-15 · 0</title>
+      <path d="M 738 390.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 724 398.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 738 402.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-09 · 0</title>
+      <path d="M 1026 390.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 1012 398.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1026 402.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-07 · 0</title>
+      <path d="M 914 391.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 399.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 403.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-04 · 0</title>
+      <path d="M 802 391.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 399.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 403.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-27 · 0</title>
+      <path d="M 978 393 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 964 401 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 978 405 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-24 · 0</title>
+      <path d="M 866 393.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 401.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 405.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-22 · 0</title>
+      <path d="M 754 394 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 740 402 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 754 406 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-14 · 0</title>
+      <path d="M 930 395.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 403.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 407.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-11 · 0</title>
+      <path d="M 818 395.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 403.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 407.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-03 · 0</title>
+      <path d="M 994 396.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 980 404.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 994 408.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-01 · 0</title>
+      <path d="M 882 397.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 405.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 409.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-08-29 · 0</title>
+      <path d="M 770 397.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 756 405.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 770 409.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-21 · 0</title>
+      <path d="M 946 399.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 407.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 411.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-18 · 0</title>
+      <path d="M 834 399.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 407.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 411.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-10 · 0</title>
+      <path d="M 1010 400.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 996 408.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 1010 412.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-08 · 0</title>
+      <path d="M 898 401.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 409.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 413.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-05 · 0</title>
+      <path d="M 786 401.79999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 772 409.79999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 786 413.79999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-28 · 0</title>
+      <path d="M 962 403 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 948 411 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 962 415 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-25 · 0</title>
+      <path d="M 850 403.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 411.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 415.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-15 · 0</title>
+      <path d="M 914 405.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 413.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 417.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-12 · 0</title>
+      <path d="M 802 405.7 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 788 413.7 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 802 417.7 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-04 · 0</title>
+      <path d="M 978 406.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 964 414.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 978 418.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-02 · 0</title>
+      <path d="M 866 407.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 415.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 419.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-22 · 0</title>
+      <path d="M 930 409.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 417.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 421.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-19 · 0</title>
+      <path d="M 818 409.6 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 804 417.6 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 818 421.6 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-11 · 2</title>
+      <path d="M 994 348.15645354123615 l 14 4 l -14 8 l -14 -4 Z" fill="#d4b1ff" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 980 356.15645354123615 l 14 4 v 63.643546458763836 l -14 -4 Z" fill="#7753c4"/>
+      <path d="M 994 360.15645354123615 l 14 -8 v 63.643546458763836 l -14 8 Z" fill="#4b387f"/>
+      <path d="M 983 359.15645354123615 l 8 2 m 4 -3 l 8 -4" stroke="#e6caff" stroke-width="1" opacity=".8"/>
+    </g>
+<g><title>2026-10-09 · 0</title>
+      <path d="M 882 411.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 419.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 423.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-29 · 0</title>
+      <path d="M 946 413 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 421 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 425 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-09-26 · 0</title>
+      <path d="M 834 413.5 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 820 421.5 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 834 425.5 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-16 · 0</title>
+      <path d="M 898 415.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 423.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 427.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-05 · 0</title>
+      <path d="M 962 416.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 948 424.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 962 428.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-03 · 0</title>
+      <path d="M 850 417.4 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 836 425.4 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 850 429.4 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-23 · 0</title>
+      <path d="M 914 419.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 427.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 431.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-10 · 0</title>
+      <path d="M 866 421.29999999999995 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 852 429.29999999999995 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 866 433.29999999999995 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-30 · 0</title>
+      <path d="M 930 423 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 431 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 435 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-17 · 0</title>
+      <path d="M 882 425.2 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 868 433.2 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 882 437.2 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-06 · 0</title>
+      <path d="M 946 426.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 932 434.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 946 438.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-24 · 0</title>
+      <path d="M 898 429.1 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 884 437.1 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 898 441.1 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-10-31 · 0</title>
+      <path d="M 914 433 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 900 441 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 914 445 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+<g><title>2026-11-07 · 0</title>
+      <path d="M 930 436.9 l 14 4 l -14 8 l -14 -4 Z" fill="#272640" stroke="#3c3454" stroke-width=".5"/>
+      <path d="M 916 444.9 l 14 4 v 1 l -14 -4 Z" fill="#171a2c"/>
+      <path d="M 930 448.9 l 14 -8 v 1 l -14 8 Z" fill="#101422"/>
+      
+    </g>
+    <text x="34" y="493" font-size="12" class="muted">Последние 12 месяцев · данные GitHub</text>
+    <text x="1166" y="493" text-anchor="end" font-size="12" fill="#be9eec">19 действий</text>
+</svg>
