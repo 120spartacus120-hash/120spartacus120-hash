@@ -13,22 +13,24 @@ I focus on interface usability, animations, and fixing bugs.
 
 ## Tech stack
 
-**Android**
+| Area | Technologies |
+| --- | --- |
+| Android | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white) |
+| Web & backend | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) |
+| Windows apps | ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=black) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+## Languages on GitHub
 
-**Web & backend**
+<!-- language-counts:start -->
+![Kotlin: 0 repos](https://img.shields.io/badge/Kotlin-0%20repos-7F52FF?logo=kotlin&logoColor=white)
+![JavaScript: 0 repos](https://img.shields.io/badge/JavaScript-0%20repos-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript: 1 repo](https://img.shields.io/badge/TypeScript-1%20repo-3178C6?logo=typescript&logoColor=white)
+![Rust: 1 repo](https://img.shields.io/badge/Rust-1%20repo-000000?logo=rust&logoColor=white)
+![Svelte: 1 repo](https://img.shields.io/badge/Svelte-1%20repo-FF3E00?logo=svelte&logoColor=white)
+![Python: 1 repo](https://img.shields.io/badge/Python-1%20repo-3776AB?logo=python&logoColor=white)
+<!-- language-counts:end -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white)
-
-**Windows apps**
-
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+<sub>Public repositories containing each language. A repository can use several languages. Forks and this profile repository are excluded.</sub>
 
 ---
 
