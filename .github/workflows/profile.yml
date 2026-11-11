@@ -1,4 +1,4 @@
-name: Update profile artwork
+name: Update arcade
 
 on:
   schedule:
@@ -7,14 +7,13 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/**'
       - '.github/workflows/profile.yml'
 
 permissions:
   contents: read
 
 concurrency:
-  group: profile-artwork
+  group: profile-arcade
   cancel-in-progress: false
 
 jobs:
@@ -26,33 +25,17 @@ jobs:
     steps:
       - name: Check out profile source
         uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
-      - name: Prepare Node.js
-        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020
-        with:
-          node-version: '22'
       - name: Generate Pac-Man from contribution data
         uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ github.token }}
           games: pacman
-      - name: Generate banner, projects, statistics, and 3D calendar
-        run: node scripts/generate-profile.mjs
-        env:
-          GH_TOKEN: ${{ github.token }}
-      - name: Check all profile images
+      - name: Check generated arcade images
         run: |
-          node --input-type=module <<'NODE'
-          import { readFile } from 'node:fs/promises';
-          const images = ['banner.svg', 'typing.svg', 'aura.svg', 'jarvis.svg', 'metrics.svg', 'activity-city.svg', 'pacman-contribution-graph.svg', 'pacman-contribution-graph-dark.svg'];
-          for (const image of images) {
-            const content = await readFile(`dist/${image}`, 'utf8');
-            if (!content.includes('<svg') || !content.includes('</svg>')) {
-              throw new Error(`Invalid profile image: ${image}`);
-            }
-          }
-          NODE
-      - name: Publish profile images
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+      - name: Publish arcade images
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
           target_branch: output
@@ -60,6 +43,6 @@ jobs:
           keep_history: true
           allow_empty_commit: false
           jekyll: false
-          commit_message: Refresh profile artwork
+          commit_message: Refresh arcade
         env:
           GITHUB_TOKEN: ${{ github.token }}
