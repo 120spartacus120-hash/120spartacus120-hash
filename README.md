@@ -35,7 +35,7 @@ I focus on interface usability, animations, and fixing bugs.
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man moving through my GitHub contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/120spartacus120-hash/120spartacus120-hash/output/pacman-contribution-graph-dark.svg?v=2" width="100%" alt="Pac-Man moving through my GitHub contribution graph" />
 </picture>
